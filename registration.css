@@ -1,0 +1,17 @@
+button{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: red;
+    color: blueviolet;
+    animation-delay: 1s;
+    opacity: 1s;
+}
+
+

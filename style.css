@@ -1,0 +1,66 @@
+.satauri{
+    margin: auto;
+    margin-left: 42%;
+    color: burlywood;
+    
+    
+}
+
+
+    
+
+
+body{
+    background-color: blueviolet;
+}
+
+.satauri2{
+    color: aqua;
+}
+
+.satauri3{
+    color: aqua;
+}
+
+
+.photo2{    
+    width: 100px;
+    height: 80px;
+    margin-left: 201px;
+    border-radius: 50%;
+    position: absolute;
+    margin-bottom:70px;
+
+
+}
+
+.photo{
+    width: 100px;
+    height: 80px;
+    position: absolute;
+    margin-left: 166px;
+    margin-top: -75px;
+    border-radius: 1000%;
+}
+
+.freecourses{
+    font-size: 23px;
+}
+
+
+.button1{
+    
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    font-size: 20px;
+    cursor: pointer;
+}
+    
+    
+
+
+
+
+    
